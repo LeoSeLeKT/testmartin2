@@ -1,0 +1,7 @@
+{
+  "name": "woodworking",
+  "version": "1.0.0",
+  "dependencies": {
+    "react-router-dom": "^6.26.2"
+  }
+}
